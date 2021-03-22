@@ -5,12 +5,12 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        int studentAge = 15;
-        double studentGPA = 3.45;
+        int studentAge = 22;
+        double studentGPA = 4.28;
         boolean hasPerfectAttendance = true;
 
-        String studentFirstName = "Kayla";
-        String studentLastName = "Hammon";
+        String studentFirstName = "Stiven";
+        String studentLastName = "Ramírez";
         char studentFirstInitial = studentFirstName.charAt(0);
         char studentLastInitial = studentLastName.charAt(0);
 
